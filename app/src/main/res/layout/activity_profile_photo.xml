@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".ProfilePhotoActivity">
+
+    <include
+        layout="@layout/app_action_bar"
+        android:id="@+id/photo_action_bar"/>
+
+
+    <LinearLayout
+        android:layout_below="@+id/photo_action_bar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black">
+
+        <ImageView
+            android:id="@+id/iv_profile_photo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/gtulogo"
+            android:layout_gravity="center_vertical"
+            android:layout_marginBottom="70dp"
+            android:layout_marginTop="70dp"/>
+
+    </LinearLayout>
+</RelativeLayout>

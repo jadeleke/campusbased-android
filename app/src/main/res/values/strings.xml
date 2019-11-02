@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CampusBase</string>
+
+    <string name="hello_blank_fragment">Change me sharp</string>
+    <!--Error Strings-->
+    <string name="error_fill_form">Field can\'t be empty</string>
+    <string name="all_fields_error">Fill out all fields</string>
+    <string name="name_error">Username must contain alphabets, numbers and an underscore and must be 5 characters long</string>
+    <string name="email_error">Enter a valid email</string>
+    <string name="password_error">Password must be 8 characters long and contain a lower and upper case letter and a character</string>
+    <string name="error_connection_title">Connection Error</string>
+    <string name="connection_error_message">Please check your internet connection and try again</string>
+    <string name="number_error">Phone number is invalid</string>
+    <string name="index_error">Invalid Index Number</string>
+
+</resources>
