@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "70126502917",
+    "firebase_url": "https://campusbase-4e548.firebaseio.com",
+    "project_id": "campusbase-4e548",
+    "storage_bucket": "campusbase-4e548.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70126502917:android:3553770d169f8c1f",
+        "android_client_info": {
+          "package_name": "blueticks.fabitech.com.campusbase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70126502917-e76ip46gerck0g3cd6bas15lca9t8b0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "blueticks.fabitech.com.campusbase",
+            "certificate_hash": "b6d67e60fd446f8337ea123bf99c26196596dbbc"
+          }
+        },
+        {
+          "client_id": "70126502917-t4j0a2eh142ed88m1un9lvoo6dsa27s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEM6hNojqy-NBOMcVlu0HgnbY0VrHDOr8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70126502917-t4j0a2eh142ed88m1un9lvoo6dsa27s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

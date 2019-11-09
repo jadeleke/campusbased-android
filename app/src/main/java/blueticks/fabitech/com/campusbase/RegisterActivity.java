@@ -156,7 +156,6 @@ public class RegisterActivity extends AppCompatActivity {
 //                        String responseMessage = responseObj.getString("message");
 //                        Toast.makeText(RegisterActivity.this, Base64Encrypt.decrypt(responseMessage),
 //                                Toast.LENGTH_LONG).show();
-
         SharedPreferences mPreferences = getSharedPreferences( "status", MODE_PRIVATE );
         SharedPreferences.Editor mEditor = mPreferences.edit();
         mEditor.putBoolean( "login", true );
